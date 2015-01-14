@@ -17,6 +17,7 @@ gem 'paperclip', '~> 4.2.1'
 gem 'aws-sdk', '~> 1.60.2'
 gem 'masonry-rails', '~> 0.2.4'
 
+
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
